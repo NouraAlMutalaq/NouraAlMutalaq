@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NouraAlMutalaq
+- 👋 Hi, I’m @NouraAlMutlaq
 - 👀 I’m interested in knowladge.
 - 🌱 I’m currently learning coding.
 
